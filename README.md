@@ -2,12 +2,12 @@ These aren't the droids you're looking for...
 
 
               zm.
-                 ,dd@[
-               v`    '\c
-              /        'i
+                 -dd@[
+               v-     \c
+              /         i
               [         ]
-             ,!-s       ]                         __
-             /  @!      ]          _____        ,/v/\
+              !-s       ]                         __
+             /  @!      ]          _____         /v/\
             i`          !_m.   ,v/~     ~=.     [[ /Y
             /            ]Mb_v/`          !.    [[  ]
             [            ]][               t==_.[[  [
